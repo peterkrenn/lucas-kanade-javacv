@@ -4,8 +4,8 @@ import com.googlecode.javacv.*;
 // import static com.googlecode.javacv.cpp.opencv_imgproc.*;
 import static com.googlecode.javacv.cpp.opencv_highgui.*;
 
-public class LucasKanadeJavaCv {
-  private static final String APP_NAME = "LucasKanadeJavaCv";
+public class LucasKanadeJavaCV {
+  private static final String APP_NAME = "LucasKanadeJavaCV";
   private static final String OUTPUT_FILE_NAME =  "output.avi";
   private static final int FOURCC =  CV_FOURCC('X', 'V', 'I', 'D');
   private static final int MAX_CORNERS = 500;
